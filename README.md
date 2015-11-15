@@ -14,3 +14,8 @@ Then install webdriverio.
 ```shell
 npm install webdriverio
 ```
+
+execute
+```shell
+node test.js
+```
